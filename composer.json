@@ -1,9 +1,9 @@
 {
-    "name": "amit/mvc",
+    "name": "giz/mvc",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Amit\\Mvc\\": "src/"
+            "Giz\\Mvc\\": "src/"
         }
     },
     "authors": [

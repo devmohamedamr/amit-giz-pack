@@ -1,5 +1,5 @@
 <?php
-namespace Amit\Mvc;
+namespace Giz\Mvc;
 class user 
 {
     public function index()
