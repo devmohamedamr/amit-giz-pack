@@ -1,0 +1,16 @@
+{
+    "name": "amit/mvc",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amit\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {}
+}
